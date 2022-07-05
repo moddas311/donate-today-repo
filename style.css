@@ -1,0 +1,59 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+#image{
+    background-image: url(cover/donation1.jpg);
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    text-size-adjust: 1200px;
+
+}
+p{
+    text-align: center;
+}
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 0;
+    text-align: center;
+    text-align: center;
+}
+hr{
+    margin: 1%;
+}
+h2{
+    text-align: center;
+}
+.text-100{
+    text-align: center;
+    text-size-adjust: 80px;
+    color: silver;
+}
+.first section{
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 10px;
+
+
+}
+.middle{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+
+}
+#red{
+    color: red;
+    font-size: 80px;
+}
