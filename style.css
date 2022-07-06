@@ -35,10 +35,6 @@ h2{
 .middle{
     text-align: center;
 }
-#red{
-    color: red;
-    font-size: 80px;
-}
 
 .tk{
     display: flex;
@@ -60,7 +56,8 @@ h2{
 }
 #tk-border{
     background: #FFEEEE;
-    border: 2x solid #ff5959;
+    border: 5px solid #ff5959;
+justify-content: center;
 }
 .tk span{
     font-size: 30px;
@@ -68,9 +65,8 @@ h2{
     color: #707070
 }
 #tk-border span{
-    text-align: center;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 700;
     color: #ff5959;
 
 }
@@ -142,4 +138,5 @@ footer{
 }
 #red{
     color:red;
+    font-size: 100px;
 }
