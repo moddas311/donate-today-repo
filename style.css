@@ -70,16 +70,6 @@ justify-content: center;
     color: #ff5959;
 
 }
-.amount-input{
-    width: 100%;
-    border: none;
-    border-bottom: 2px solid #ddd;
-    font-size: 20px;
-    text-align: center;
-    padding: 10px 0;
-    margin-bottom: 30px;
- padding: 0%;
-}
 
 .plan{
     display: flex;
