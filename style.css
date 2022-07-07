@@ -18,7 +18,7 @@ p{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    font-weight: 700;
+    font-weight: 500;
     border-radius: 5px;
     margin: 500px;
     text-align: center;
@@ -27,17 +27,14 @@ p{
 h2{
     text-align: center;
 }
-.text-100{
-    text-align: center;
-    text-size-adjust: 80px;
-    color: silver;
-}
+
 .middle{
     text-align: center;
 }
 
 .tk{
     display: flex;
+    border: #707070;
 
 }
 
@@ -50,8 +47,8 @@ h2{
     height: 120px;
     text-align: center;
     background: #FAFAFA;
-    border-radius: 5px;
-    line-height: 120px;
+    border-radius: 10px;
+    line-height: 130px;
 
 }
 #tk-border{
